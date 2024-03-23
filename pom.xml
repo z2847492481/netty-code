@@ -36,6 +36,14 @@
             <artifactId>guava</artifactId>
             <version>32.1.2-jre</version>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/io.netty/netty-all -->
+        <dependency>
+            <groupId>io.netty</groupId>
+            <artifactId>netty-all</artifactId>
+            <version>4.1.42.Final</version>
+        </dependency>
+
     </dependencies>
 
 </project>
